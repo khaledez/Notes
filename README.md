@@ -3,6 +3,7 @@ Technical notes to help me remember and maintain knowledge
 
 ### Content
 - [Useful Links](Links.md)
+- [Shell](Shell.md)
 
 ### Software License
 All code samples and scripts in this repository are provided with the following terms:
