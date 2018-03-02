@@ -12,5 +12,10 @@ but I haven't put them down in a specific note file yet.
 #### Haskell
 - [Introduction to Haskell Course (Fall 2016) - University of Pennsylvania](http://www.seas.upenn.edu/~cis194/fall16/)
 
+#### Shell Scripting (Bash)
+- [Linux Fu - Better Bash Scripting](https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/)  
+A good starting point to write notes about Bash.
+- [Google Bash Style Guide](https://google.github.io/styleguide/shell.xml)
+
 ### Miscellaneous
 - [Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
