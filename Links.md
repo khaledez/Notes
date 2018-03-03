@@ -17,5 +17,8 @@ but I haven't put them down in a specific note file yet.
 A good starting point to write notes about Bash.
 - [Google Bash Style Guide](https://google.github.io/styleguide/shell.xml)
 
+#### .NET
+- [Resources for Learning About .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
+
 ### Miscellaneous
 - [Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
