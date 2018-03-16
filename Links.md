@@ -20,5 +20,8 @@ A good starting point to write notes about Bash.
 #### .NET
 - [Resources for Learning About .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
 
+#### Front-End
+- [Curated list of Front-End engineering case studies](https://github.com/andrew--r/frontend-case-studies)
+
 ### Miscellaneous
 - [Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
