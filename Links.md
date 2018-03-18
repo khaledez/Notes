@@ -25,3 +25,5 @@ A good starting point to write notes about Bash.
 
 ### Miscellaneous
 - [Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
+- [OpenSCAD - The Programmers Solid 3D CAD Modeller](http://www.openscad.org)
+- [sigrok - signal analysis software suite](https://sigrok.org)
