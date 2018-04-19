@@ -9,6 +9,9 @@ but I haven't put them down in a specific note file yet.
 - [The Motherboard Guide to Not Getting Hacked](https://motherboard.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
 - [TCP/IP Network Protocol](https://linuxacademy.com/howtoguides/posts/show/topic/12806-tcpip-network-protocol)
 
+### System Administration
+- [SYSADVENT blog](http://sysadvent.blogspot.com/)
+
 ### Programming Languages
 #### Haskell
 - [Introduction to Haskell Course (Fall 2016) - University of Pennsylvania](http://www.seas.upenn.edu/~cis194/fall16/)
