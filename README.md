@@ -5,6 +5,7 @@ Technical notes to help me remember and maintain knowledge
 - [Useful Links](Links.md)
 - [Shell](Shell.md)
 - [Ruby](Ruby.md)
+- [Postgres](Postgres.md)
 
 ### Software License
 All code samples and scripts in this repository are provided with the following terms:
